@@ -5,7 +5,7 @@ const items = [
       "We accept all major credit cards, PayPal, and various other payment methods depending on your location. Please contact our support team for more information on accepted payment methods in your region.",
   },
   {
-    question: "How does the pricing work for teams?",
+    question: "Hsow does the pricing work for teams?",
     answer:
       "Our pricing is per user, per month. This means you only pay for the number of team members you have on your account. Discounts are available for larger teams and annual subscriptions.",
   },
